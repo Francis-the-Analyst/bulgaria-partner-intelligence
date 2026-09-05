@@ -1,0 +1,35 @@
+# Local credentials and deployment state
+.env
+.env.*
+!.env.example
+.vercel/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+
+# Regenerable execution logs
+*.log
+*_log.txt
+.playwright-cli/
+
+# Dependency and build caches
+node_modules/
+.cache/
+dist/
+build/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+~$*
+.vscode/
+.idea/
+.claude/
