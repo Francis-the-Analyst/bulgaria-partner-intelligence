@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101112">
+  <link rel="icon" href="data:">
+  <title>Bulgaria · Partner Intelligence — Executive Intelligence</title>
+  <link rel="stylesheet" href="base.css">
+  <link rel="stylesheet" href="proposal_A.css">
+</head>
+<body class="theme-a intelligence-page">
+<a href="#main-content" class="skip-link">Skip to content</a>
+
+<header class="app-header">
+  <div class="brand-block">
+    <a class="brand-wordmark" href="https://www.cosentino.com/" target="_blank" rel="noopener"><span class="brand-mark" aria-hidden="true">C</span><b>COSENTINO</b></a>
+    <span id="brand-authorship" class="top-ownership"></span>
+  </div>
+  <div class="market-identity"><strong>Bulgaria · Partner Intelligence</strong><small data-i18n="executive_intelligence"></small></div>
+  <div class="header-actions">
+    <div class="channel-toggle" role="group" aria-label="Channels">
+      <button type="button" id="channel-btn-retail" class="header-btn" data-i18n="channel_retail" aria-pressed="true"></button>
+      <button type="button" id="channel-btn-proyectos" class="header-btn" data-i18n="channel_proyectos" aria-pressed="false"></button>
+    </div>
+    <a id="back-to-cover-link" class="header-btn" data-i18n="back_to_cover" href="index_R_P.html"></a>
+    <div class="lang-toggle" role="group" aria-label="Language">
+      <button type="button" id="lang-en" class="header-btn lang-btn">EN</button>
+      <button type="button" id="lang-bg" class="header-btn lang-btn">BG</button>
+      <button type="button" id="lang-ru" class="header-btn lang-btn">RU</button>
+    </div>
+  </div>
+</header>
+
+<main id="main-content" class="intelligence-main">
+  <section class="intelligence-brief">
+    <div>
+      <p class="brief-eyebrow" data-i18n="hero_eyebrow"></p>
+      <h1 data-i18n="hero_title">Where should the<br>next conversation start?</h1>
+    </div>
+    <p class="brief-copy" data-i18n="hero_context"></p>
+  </section>
+
+  <section id="kpi-band" class="kpi-band" aria-label="Key indicators"></section>
+  <nav id="nav-band" class="nav-band" aria-label="Intelligence views"></nav>
+
+  <div class="workspace-shell">
+    <section class="filters-bar" aria-label="Filters">
+      <div class="filter-heading"><div><p data-i18n="filters_refine"></p><span id="filter-live-count"></span></div><button type="button" id="filters-reset" data-i18n="filters_reset"></button></div>
+      <div class="filters-search-row">
+        <label class="search-label"><span data-i18n="filters_search_label"></span><input type="search" id="filters-search" data-i18n-placeholder="filters_search" placeholder="Search…"></label>
+        <button type="button" id="filters-mobile-toggle" class="header-btn" data-i18n="filters_open_mobile"></button>
+      </div>
+      <div id="filters-drawer">
+        <button type="button" id="filters-mobile-close" class="header-btn" data-i18n="filters_close_mobile"></button>
+        <div id="filters-chips"></div>
+      </div>
+      <div class="filter-key"><p data-i18n="map_key"></p><span><i class="key-dot high"></i><span data-i18n="priority_high"></span></span><span><i class="key-dot medium"></i><span data-i18n="priority_medium"></span></span><span><i class="key-ring"></i><span data-i18n="kpi_showroom"></span></span></div>
+    </section>
+
+    <div class="intelligence-surface">
+      <div class="toolbar-row"><span id="results-count"></span><button type="button" id="export-btn" data-i18n="export_csv"></button></div>
+
+      <section id="view-map" class="view-section decision-panel" aria-label="Positioning map">
+        <header class="section-heading"><div><p data-i18n="nav_map"></p><h2 data-i18n="opportunity_field"></h2></div><div class="map-legend"><span id="map-axis-y"></span><span id="map-axis-x"></span></div></header>
+        <div id="map-svg-wrap"></div>
+        <p id="map-note"></p>
+      </section>
+
+      <section id="view-list" class="view-section" hidden aria-label="Account list"><header class="section-heading"><div><p data-i18n="nav_list"></p><h2 data-i18n="all_accounts"></h2></div></header><div id="table-container" class="table-scroll"></div></section>
+      <section id="view-shortlist" class="view-section shortlist-view" hidden aria-label="Priority shortlist"><header class="section-heading"><div><p data-i18n="nav_shortlist"></p><h2 data-i18n="first_conversations"></h2></div></header><div id="shortlist-container"></div></section>
+      <section id="view-coverage" class="view-section" hidden aria-label="Coverage"><header class="section-heading"><div><p data-i18n="nav_coverage"></p><h2 data-i18n="coverage_title"></h2></div></header><div id="coverage-container"></div></section>
+      <section id="view-competitive" class="view-section" hidden aria-label="Competitive landscape"><header class="section-heading"><div><p data-i18n="nav_competitive"></p><h2 data-i18n="competitive_title"></h2></div></header><div id="competitive-container"></div></section>
+      <section id="view-developments" class="view-section" hidden aria-label="Project developments"><header class="section-heading"><div><p data-i18n="nav_developments"></p><h2 data-i18n="developments_title"></h2></div></header><div id="dev-filters" class="dev-filters"></div><div id="dev-table-container" class="table-scroll"></div></section>
+    </div>
+  </div>
+
+  <section class="model-note"><p data-i18n="model_about_title"></p><p id="model-summary" data-i18n="model_about_retail"></p></section>
+</main>
+
+<div id="drawer-overlay" hidden></div>
+<aside id="drawer" aria-hidden="true" aria-label="Account detail">
+  <div class="drawer-header"><strong data-i18n="drawer_title">Detail</strong><button type="button" id="drawer-close-btn" data-i18n="drawer_close" class="drawer-close"></button></div>
+  <div id="drawer-body"></div>
+</aside>
+
+<script src="data.js"></script>
+<script src="app-core.js"></script>
+<script>AppCore.mount({ proposal: 'A' });</script>
+</body>
+</html>

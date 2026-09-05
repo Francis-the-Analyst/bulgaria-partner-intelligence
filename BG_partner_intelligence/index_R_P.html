@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101112">
+  <link rel="icon" href="data:">
+  <title>Bulgaria · Partner Intelligence — Cosentino</title>
+  <link rel="stylesheet" href="base.css">
+  <link rel="stylesheet" href="proposal_A.css">
+</head>
+<body class="theme-a cover-page">
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<header class="cover-header">
+  <a class="brand-wordmark" href="https://www.cosentino.com/" target="_blank" rel="noopener" aria-label="Visit Cosentino">
+    <span class="brand-mark" aria-hidden="true">C</span><b>COSENTINO</b>
+  </a>
+  <p id="brand-authorship" class="top-ownership"></p>
+  <p class="cover-market">Bulgaria · Partner Intelligence</p>
+  <div class="lang-toggle" role="group" aria-label="Language">
+    <button type="button" id="lang-en" class="header-btn lang-btn">EN</button>
+    <button type="button" id="lang-bg" class="header-btn lang-btn">BG</button>
+    <button type="button" id="lang-ru" class="header-btn lang-btn">RU</button>
+  </div>
+</header>
+
+<main id="main-content" class="executive-cover">
+  <section class="cover-copy">
+    <p class="cover-eyebrow" data-i18n="cover_eyebrow"></p>
+    <h1 class="cover-title">Bulgaria<br>Partner<br>Intelligence</h1>
+    <p class="cover-message" data-i18n="cover_message"></p>
+    <p id="cover-ownership" class="cover-ownership"></p>
+  </section>
+
+  <section class="cover-choice" aria-labelledby="channel-choice-title">
+    <p id="channel-choice-title" class="choice-intro" data-i18n="cover_choose_channel"></p>
+    <a class="channel retail-choice" id="card-retail" href="proposal_A.html#channel=retail&view=map">
+      <span>01</span>
+      <b data-i18n="cover_enter_retail"></b>
+      <small><strong id="stat-retail">93</strong> <span data-i18n="cover_stat_retail"></span> · <strong id="stat-cities">4</strong> <span data-i18n="cover_stat_cities"></span></small>
+      <i data-i18n="cover_explore"></i>
+    </a>
+    <a class="channel project-choice" id="card-proyectos" href="proposal_A.html#channel=proyectos&view=map">
+      <span>02</span>
+      <b data-i18n="cover_enter_proyectos"></b>
+      <small><strong id="stat-proyectos">32</strong> <span data-i18n="cover_stat_proyectos"></span> · <strong id="stat-dev">23</strong> <span data-i18n="cover_stat_developments"></span></small>
+      <i data-i18n="cover_view"></i>
+    </a>
+
+    <nav class="brand-grid" aria-label="Cosentino surfaces">
+      <a class="brand-tile" href="https://www.cosentino.com/en-gb/colours/silestone" target="_blank" rel="noopener"><img src="assets/silestone.jpg" alt="Silestone surface"><span>Silestone ↗</span></a>
+      <a class="brand-tile" href="https://www.cosentino.com/en-gb/colours/dekton" target="_blank" rel="noopener"><img src="assets/dekton.jpg" alt="Dekton surface"><span>Dekton ↗</span></a>
+      <a class="brand-tile" href="https://www.cosentino.com/en-gb/colours/eclos" target="_blank" rel="noopener"><img src="assets/eclos.jpg" alt="Eclos surface"><span>Eclos ↗</span></a>
+      <a class="brand-tile" href="https://www.cosentino.com/en-gb/colours/sensa" target="_blank" rel="noopener"><img src="assets/sensa.jpg" alt="Sensa surface"><span>Sensa ↗</span></a>
+    </nav>
+  </section>
+</main>
+
+<footer class="cover-footer">
+  <span data-i18n="internal_use"></span>
+  <span id="brand-authorship-footer"></span>
+</footer>
+
+<script src="data.js"></script>
+<script src="app-core.js"></script>
+<script>
+(function () {
+  var AC = AppCore;
+  AC.loadSession();
+  AC.state.proposal = 'A';
+
+  function renderCover() {
+    document.documentElement.lang = AC.state.lang;
+    var nodes = document.querySelectorAll('[data-i18n]');
+    for (var i = 0; i < nodes.length; i++) nodes[i].textContent = AC.t(AC.state.lang, nodes[i].getAttribute('data-i18n'));
+    var authHtml = AC.esc(AC.t(AC.state.lang, 'brand_line_pre')) + ' <strong>' + AC.esc(AC.t(AC.state.lang, 'brand_author')) + '</strong>';
+    document.getElementById('brand-authorship').innerHTML = authHtml;
+    document.getElementById('cover-ownership').innerHTML = authHtml;
+    document.getElementById('brand-authorship-footer').innerHTML = authHtml;
+    AC.LANGS.forEach(function (l) {
+      var btn = document.getElementById('lang-' + l);
+      if (btn) btn.classList.toggle('is-active', AC.state.lang === l);
+    });
+    document.getElementById('stat-retail').textContent = RETAIL_DATA.length;
+    document.getElementById('stat-proyectos').textContent = PROYECTOS_DATA.length;
+    document.getElementById('stat-dev').textContent = DEVELOPMENTS_DATA.length;
+    var cities = {};
+    RETAIL_DATA.forEach(function (r) { cities[AC.normCity(r.city)] = true; });
+    document.getElementById('stat-cities').textContent = Object.keys(cities).length;
+  }
+
+  AC.LANGS.forEach(function (l) {
+    var btn = document.getElementById('lang-' + l);
+    if (btn) btn.addEventListener('click', function () {
+      AC.state.lang = l;
+      AC.saveSession();
+      renderCover();
+    });
+  });
+  renderCover();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,577 @@
+[
+  {
+    "name": "BETArch (BETArchitects)",
+    "city_or_zone": "Varna",
+    "typology": "Architecture Studio",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office street address (бул. \"Мария Луиза\" №4, Варна) on the site's contact page; no interior/showroom photos of the office itself were found in the scraped content.",
+    "email": "betarchbg@gmail.com",
+    "phone": "+359890107787",
+    "address": "бул. \"Мария Луиза\" 4, Варна, България",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Homepage tagline: \"Радостта от ниската цена трае по-кратко от разочарованието от лошото качество\" (the joy of a low price is shorter-lived than the disappointment of poor quality) — explicit quality-over-price positioning.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "Quality-over-low-price positioning ('the joy of a low price fades faster than the disappointment of bad quality')",
+      "Boutique studio of 3 architects, each with a specialization, covering a wide service spectrum",
+      "Portfolio of single-family villas, residential buildings and interiors around Varna"
+    ],
+    "summary": "Boutique Varna architecture studio (BETArchitects) with a small team of three architects designing villas, residential buildings and interiors, explicitly positioning on quality over cheap pricing.",
+    "source_urls": [
+      "https://www.betarch.bg/",
+      "https://www.betarch.bg/kontakti/"
+    ]
+  },
+  {
+    "name": "Архитектурно бюро ЗАХЕ (SACHE)",
+    "city_or_zone": "Varna",
+    "typology": "Architecture Studio",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Office address published on contact page (Варна, жк. Възраждане бл. 26).",
+    "email": "info@sache.pro",
+    "phone": "+359 52 803 234",
+    "address": "Варна, жк. Възраждане бл. 26",
+    "source_channel": "Multiple",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "States it designs projects in Bulgaria, Switzerland, Austria and Germany, including passive buildings certified to the 'Minergie' standard — international, high-spec positioning.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "International design experience (Bulgaria, Switzerland, Austria, Germany)",
+      "Sustainable / passive-house design (Minergie standard)",
+      "Personalized, identity-driven architecture and interiors ('spaces that are an expression of personal identity')"
+    ],
+    "summary": "Varna-based architecture bureau (ЗАХЕ / SACHE) offering architecture, urban planning and interior design, with cross-border project experience and a sustainability focus.",
+    "source_urls": [
+      "https://www.sache.pro/",
+      "https://www.facebook.com/sache.architects/"
+    ]
+  },
+  {
+    "name": "JAS Studio (Архитектурно студио JAS)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Architecture Studio + Interior Designer + 3D visualization",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Portfolio shows a completed built project (administrative building on ul. Tsaribrod, Varna) attributed to the studio, indicating real executed local work rather than only concept design.",
+    "email": "",
+    "phone": "+359887259485",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Full-service architecture + interior + visualization studio with executed public/administrative buildings in Varna, positioned as high-quality design provider.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "Full-service architecture, interior design and 3D visualization studio",
+      "Portfolio spans residential, public and administrative buildings in Varna",
+      "High-quality, individualized design approach"
+    ],
+    "summary": "JAS Studio is a Varna architecture and interior design studio offering architectural design, interior design and 3D visualization for residential and public buildings.",
+    "source_urls": [
+      "https://jas-studio.com/"
+    ]
+  },
+  {
+    "name": "DOMO Design (Арх. Катерина Танева)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Interior Designer + Architecture Studio + custom furnishing",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Phone contact confirmed on site, but no physical office/showroom address or premises photos were found in the scraped pages.",
+    "email": "",
+    "phone": "+359895876456",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Self-positions as \"leading interior design studio in Varna\" (водещо студио) with fully personalized, end-to-end design-to-furnishing service.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Positions itself as the leading interior design and architecture studio in Varna",
+      "Full-service offer: interior design, architecture and bespoke ('по поръчка') furnishing",
+      "Personalized, individual approach for every client, projects across Bulgaria"
+    ],
+    "summary": "DOMO is a Varna-based interior design and architecture studio led by architect Katerina Taneva, offering design-to-furnishing services across Bulgaria.",
+    "source_urls": [
+      "https://domodesign.bg/"
+    ]
+  },
+  {
+    "name": "VIZIA Interior Studio",
+    "city_or_zone": "Varna",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Homepage embeds a Google Maps \"place\" listing (\"ViziaBG - Интериорен дизайн Варна\") pointing to a registered physical location, plus a published phone contact.",
+    "email": "",
+    "phone": "+359898409898",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Claims 200+ completed interior projects and explicitly positions on \"luxurious and minimalist\" ('луксозен и минималистичен') design.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "\"Design is a philosophy of space\" — brand tagline",
+      "Over 200 completed interior design projects, among the most productive studios in the city",
+      "Custom furniture and furnishing ('Мебели и обзавеждане') integrated into every design, minimalist-luxury aesthetic"
+    ],
+    "summary": "VIZIA is a Varna interior design studio with 200+ completed residential and public-space projects, combining interior design with custom furniture and a minimalist-luxury aesthetic.",
+    "source_urls": [
+      "https://viziabg.com/"
+    ]
+  },
+  {
+    "name": "Studio ONE",
+    "city_or_zone": "Varna",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published full office address: гр. Варна, Бизнес Център \"Евксиноград\", бул. Княз Борис I 296.",
+    "email": "hello@studio-one.bg",
+    "phone": "0895 26 46 96",
+    "address": "гр. Варна, Бизнес Център \"Евксиноград\", бул. Княз Борис I 296",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Self-described as \"Бутиков интериорен дизайн\" (boutique interior design) with 9+ interior design awards and full turnkey realization service, not just concept design.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "\"Бутиков интериорен дизайн\" (boutique interior design) — 105+ happy clients, 8+ years experience, 9+ interior design awards",
+      "Interior design with author supervision, and full project management/realization",
+      "Residential and public interiors, including full house realizations (e.g. Magnetic Residence)"
+    ],
+    "summary": "Studio ONE is an award-winning boutique interior design studio in Varna offering design, author supervision and full turnkey realization for residential and public interiors.",
+    "source_urls": [
+      "https://studio-one.bg/"
+    ]
+  },
+  {
+    "name": "Bonbon Studio",
+    "city_or_zone": "Varna",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published street address (ул. Зеленика 1-ва, номер 4, Варна); received a \"Best Interior Project\" award from the Union of Bulgarian Architects (САБ) - Varna chapter and second prize in the municipality's \"Vision for Varna\" competition, implying real, juried built work.",
+    "email": "bonbon.creative.studio@gmail.com",
+    "phone": "+359 896 955 789",
+    "address": "ул. Зеленика 1-ва, номер 4, Варна",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Tagline \"passion for quality\"; partners with luxury decor/hardware brands Phillip Jeffries (wallpaper), Artisan Luxury Handles and Buster & Punch, plus an Italian-import kitchen/bath/flooring partner (Home Finishing).",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Phillip Jeffries (wallpaper)",
+      "Artisan Luxury Handles",
+      "Buster and Punch",
+      "Home Finishing partner (Italian kitchen appliances, bathroom furnishing, flooring)"
+    ],
+    "key_messages": [
+      "\"Passion for quality\" and \"great ideas never come from the comfort zone\" (Ben Francia)",
+      "Award-winning studio: Best Interior Project (САБ Varna) and 2nd prize, \"Vision for Varna\" municipal competition",
+      "Curated luxury-brand partner network for decor, hardware, flooring and Italian kitchen/bath finishes"
+    ],
+    "summary": "Bonbon Studio is an award-winning Varna interior design studio working with luxury decor and hardware brands (Phillip Jeffries, Buster & Punch) and coordinating a network of premium finishing partners for full-service residential projects.",
+    "source_urls": [
+      "https://www.bonbon.studio/"
+    ]
+  },
+  {
+    "name": "Монблан Дизайн (Monblan Design)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Interior Designer + Architecture Studio",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Two phone numbers published on site; no street address or premises photos found in the scraped content.",
+    "email": "",
+    "phone": "052 626 630",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Offers full architectural design, professional architectural visualizations, interior design, author supervision AND execution management — a comprehensive, higher-touch service scope.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Full-service: architecture, interior design, 3D visualization, author supervision and execution management",
+      "Positions as the studio to consult when \"looking for a good architect in Varna\"",
+      "Active blog on Varna architecture trends, positioning as a local authority"
+    ],
+    "summary": "Monblan Design is a Varna interior design and architecture studio offering end-to-end services from architectural concept through execution management.",
+    "source_urls": [
+      "https://monblan-design.com/"
+    ]
+  },
+  {
+    "name": "Yavor Bulgaria (Кухни Явор - Варна)",
+    "city_or_zone": "Varna",
+    "typology": "Kitchen",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "English-language store locator lists a physical Varna shop address: \"Bulgaria, Varna, 17 D. Peshev str.\"",
+    "email": "",
+    "phone": "0700 20 920",
+    "address": "17 D. Peshev str., Varna",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "Medium",
+    "price_evidence": "National mainstream kitchen-furniture chain (also stores in Sofia, Burgas, Plovdiv); no luxury-specific messaging found, positioned as accessible custom-kitchen manufacturer.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "\"We will design and manufacture your dream kitchen on an individual project\"",
+      "National retail chain with stores across Bulgaria (Sofia, Burgas, Plovdiv, Varna)",
+      "In-house design and manufacturing of made-to-order kitchens"
+    ],
+    "summary": "Yavor Bulgaria is a national kitchen-furniture manufacturer/retailer with a physical showroom in Varna, offering individually designed, made-to-order kitchens.",
+    "source_urls": [
+      "https://www.yavor.bg/en/kitchen-design"
+    ]
+  },
+  {
+    "name": "Furnish BG",
+    "city_or_zone": "Varna",
+    "typology": "Kitchen",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Search listing cites a Varna street address (\"Contact us Varna, 37 Ivan Vazov...\"); confirmed working phone/email on the site's contact page.",
+    "email": "info@furnish.bg",
+    "phone": "052 685 568",
+    "address": "37 Ivan Vazov Str., Varna (per search listing; not independently re-confirmed on the scraped contact page)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "Medium",
+    "price_evidence": "Broad furniture catalog (classic/rustic and modern kitchens, bedroom, living/dining) positioned as an accessible custom manufacturer rather than an explicitly luxury brand.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "In-house team of designers and carpenters producing custom kitchens and furniture",
+      "Sells kitchen worktops, sinks and mixing taps alongside cabinetry",
+      "Full home-furnishing online store (kitchen, bedroom, living/dining) with delivery"
+    ],
+    "summary": "Furnish BG is a Varna-based custom furniture manufacturer and online store offering made-to-order kitchens, worktops and full home furnishing.",
+    "source_urls": [
+      "https://furnish.bg/en/kitchen",
+      "https://furnish.bg/en/contacts"
+    ]
+  },
+  {
+    "name": "CREARE Studio",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Interior Designer + custom furniture design/production (including kitchens)",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Search listing shows a Varna studio address (\"Studio: Bulgaria, Varna, 3 Petko Stainov\"); phone and email independently confirmed on the official site.",
+    "email": "studio@creare.bg",
+    "phone": "0899 98 08 83",
+    "address": "3 Petko Stainov Str., Varna (per search listing)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Portfolio includes upscale residential and hospitality projects (e.g. Mistral St. Vlas resort development, Soute Suite, Vila Ura), signaling a premium clientele.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "\"Персонален мебелен дизайн и производство\" (Personal furniture design and production)",
+      "Covers residential interiors, public/hospitality interiors, furniture design and decor",
+      "Named premium project references (Mistral St. Vlas, Vila Ura, Casa Nuova)"
+    ],
+    "summary": "CREARE is a Varna studio combining interior design with bespoke furniture design and production — including kitchen islands — for upscale residential and hospitality projects.",
+    "source_urls": [
+      "https://creare.bg/",
+      "https://creare.bg/proekti/island-kitchen/"
+    ]
+  },
+  {
+    "name": "СИМА (Sima) — Цялата баня",
+    "city_or_zone": "Varna",
+    "typology": "Kitchen & Bath",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Site advertises \"free delivery for Sofia and Varna with Sima's own transport\" and lists a dedicated Varna phone line; a prior search snippet cites a Varna showroom address on бул. Цар Освободител 261.",
+    "email": "office@sima.bg",
+    "phone": "052 571 660",
+    "address": "гр. Варна, бул. Цар Освободител 261 (per search listing)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "Medium",
+    "price_evidence": "Carries premium brand Grohe (current on-site promotion) alongside a broad mainstream catalog and a dedicated OUTLET section, indicating a mixed medium/premium positioning rather than exclusively high-end.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Grohe"
+    ],
+    "key_messages": [
+      "\"Цялата баня\" (\"the whole bathroom\") — one-stop shop for tiles, sanitary ware, fittings and bathroom furniture",
+      "Carries premium fittings brand Grohe (active promotion)",
+      "Offers 3D bathroom design projects and free delivery to Varna/Sofia"
+    ],
+    "summary": "Sima is a bathroom and tile retailer with showrooms in Varna and Sofia, selling ceramic tiles, granitogres, sanitary ware, kitchen sinks and premium fittings brands like Grohe, plus 3D bathroom design.",
+    "source_urls": [
+      "https://sima.bg/"
+    ]
+  },
+  {
+    "name": "Мартинели (Martineli)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Premium Materials Showroom (natural stone, tiles) + Kitchen & Bath (bathroom fixtures) + luxury furniture retail",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Dedicated \"Showrooms\" page lists two active Varna locations with published addresses, phones and working hours: \"MARTINELI\" at 7-9 Debar Str., and \"DESIGN CORNER\" at 260 Vladislav Varnenchik Blvd (furniture + bathrooms).",
+    "email": "martineliadvertising@gmail.com",
+    "phone": "+359 885820460",
+    "address": "7-9 Debar Str., Varna (Martineli showroom); 260 Vladislav Varnenchik Blvd, Varna (Design Corner showroom, furniture tel. +359 884787744 / bathrooms tel. +359 889650950)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Homepage tagline \"Perfect combination between Luxury and Modern design\"; company founded in Varna in 1994 as an importer/seller of premium furniture, tiles and natural stone, now with an 8-city Bulgarian showroom network.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Natural stone",
+      "Ceramic tiles",
+      "Parquet",
+      "Bathroom fixtures"
+    ],
+    "key_messages": [
+      "\"Your dreamed home might be closer, than expected\"",
+      "\"Perfect combination between Luxury and Modern design\"",
+      "Multi-category premium showroom network (furniture, tiles, bathroom, natural stone, parquet, carpet, lamps, decor, outdoor) with two dedicated locations in Varna"
+    ],
+    "summary": "Martineli, founded in Varna in 1994, is a multi-category luxury interior-materials retailer with two active Varna showrooms covering natural stone, tiles, bathroom fixtures, parquet and furniture, plus a national showroom network.",
+    "source_urls": [
+      "https://martineli.com/en/home/",
+      "https://martineli.com/en/showrooms/"
+    ]
+  },
+  {
+    "name": "Сити Билдинг (City Building)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Contractor + Developer",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "18 years of continuous operation (est. 2007) with multiple currently-selling, named residential projects in Varna (ELYSIA by the sea, ЛИБРА, Елисия Грийн) shown with photos on the site.",
+    "email": "homes@citybuilding.eu",
+    "phone": "+359 885 353 435",
+    "address": "Not determinable (Varna-based; exact street address not captured in scraped pages)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Positions as a trusted, technically capable partner across residential, hotel, industrial, commercial, public and infrastructure investment projects; tagline \"Trust built with 18 years of experience.\"",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "\"Доверие, изградено с 18 години опит\" (Trust built over 18 years)",
+      "Full-spectrum construction: residential, hotel, industrial, commercial, infrastructure",
+      "Active sales pipeline of own residential developments in Varna (ELYSIA by the sea, LIBRA, Elysia Green)"
+    ],
+    "summary": "City Building is a Varna construction company and developer (est. 2007) building residential, hotel and commercial complexes, currently selling its own projects ELYSIA by the sea, LIBRA and Elysia Green.",
+    "source_urls": [
+      "https://citybuilding.eu/"
+    ]
+  },
+  {
+    "name": "Акропол Билд (Acropol Build)",
+    "city_or_zone": "Varna",
+    "typology": "Contractor",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office address (бул. Сливница 87, Варна) and claims 50+ completed construction objects, shown with project photos on the site.",
+    "email": "acropol_build@abv.bg",
+    "phone": "+359888942439",
+    "address": "бул. Сливница 87, Варна",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "Medium",
+    "price_evidence": "Markets a simple \"20% deposit\" direct-purchase payment scheme for apartments, describing objects as \"modern and stylish\" rather than explicitly luxury.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Founded 2005 by a structural engineer (UACEG-Sofia graduate), successor to Acropol OOD (est. 2004)",
+      "50+ completed residential and house-building projects around Varna",
+      "Direct-from-builder apartment sales with a simple 20% deposit scheme"
+    ],
+    "summary": "Acropol Build is a Varna-based construction company (est. 2005) specializing in residential buildings and houses, with 50+ completed projects and direct apartment sales.",
+    "source_urls": [
+      "https://acropolbuild.bg/"
+    ]
+  },
+  {
+    "name": "ХОУМ ВАРНА (HomeVarna)",
+    "city_or_zone": "Varna",
+    "typology": "Hybrid",
+    "hybrid_detail": "Contractor + Developer",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office address (гр. Варна, ул. Петко Стайнов №5) plus multiple named, photographed, currently-active building projects (Panorama Asparuhovo, Rodina, Gora, Premier View).",
+    "email": "homevarna@abv.bg",
+    "phone": "+359988989956",
+    "address": "гр. Варна, ул. Петко Стайнов №5",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "Medium",
+    "price_evidence": "Markets itself on selling buildings \"directly\" to buyers at \"more favorable\" prices than through brokers — value-oriented rather than explicitly luxury positioning.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Sells its own buildings directly to buyers, cutting out broker markups",
+      "Founded 2012, focused on modern, functional housing with contemporary architecture",
+      "Active projects: Panorama Asparuhovo, Rodina, Gora, Premier View"
+    ],
+    "summary": "HomeVarna EOOD is a Varna construction company (est. 2012) that designs, builds and sells its own residential buildings directly to buyers.",
+    "source_urls": [
+      "https://homevarna.bg/"
+    ]
+  },
+  {
+    "name": "Пътстрой Варна (project doMore)",
+    "city_or_zone": "Varna",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "No dedicated sales office/showroom was identified; sales for its Varna project are conducted via the project website (fabricasa.bg), and via broker partner BPD for its Sofia project (4Life) — no direct physical showroom evidence for Cosentino sample placement.",
+    "email": "",
+    "phone": "",
+    "address": "Not determinable (project doMore is located in кв. \"Аспарухово\", Варна)",
+    "source_channel": "Multiple",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "doMore is described as a panoramic, low-rise residential complex with sea/lake views and abundant green space in a premium Varna coastal district — a higher-end positioning versus mass-market new-build.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "\"Creates spaces that don't just meet modern requirements, but exceed them\" — long-term-vision investor positioning",
+      "Low-rise buildings with spacious apartments and extensive green space",
+      "Certified quality-management systems used during and after construction"
+    ],
+    "summary": "Пътстрой Варна is a Varna-based real estate developer currently building the doMore residential complex in the Asparuhovo district, marketed via fabricasa.bg and emphasizing green space, sea views and modern low-rise design.",
+    "source_urls": [
+      "https://www.capital.bg/biznes/imoti/2026/05/17/4908273_investiciite_na_putstroi_varna_proekti_s_viziia_za/"
+    ]
+  },
+  {
+    "name": "Комфорт ООД (Komfort)",
+    "city_or_zone": "Varna",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office address (гр. Варна, бул. \"8-ми Приморски полк\" №50) plus a portfolio of major named, built and photographed Varna landmarks (Grand Mall Varna, Hotel Astera, K Residence, Varna Wave, Komfort Business Center).",
+    "email": "office@komfortbg.com",
+    "phone": "+359 52 620 220",
+    "address": "гр. Варна, бул. \"8-ми Приморски полк\" № 50",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "\"35Y\" branding signals 35 years in the market; diversified large-scale portfolio spanning a shopping mall, a hotel, an office/business center and multiple residential towers — a major established developer, not a budget builder.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "35 years of development experience in Varna",
+      "Diversified portfolio: residential (Varna Wave, K Residence), hotel (Hotel Astera), retail (Grand Mall Varna), office (Komfort Business Center)",
+      "Also runs its own sales/brokerage arm (Komfort Brokers)"
+    ],
+    "summary": "Komfort OOD is one of Varna's longest-established real-estate developers (35+ years), responsible for landmark mixed-use projects including Grand Mall Varna, Hotel Astera and multiple residential complexes.",
+    "source_urls": [
+      "https://www.komfortbg.com/",
+      "https://www.komfortbg.com/bg/portfolio"
+    ]
+  },
+  {
+    "name": "CityStone (Сити Стоун ЕООД)",
+    "city_or_zone": "Varna",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Homepage explicitly states: \"CityStone разполага с шоуруми в София, Варна и Бургас, както и със собствен цех на площ от 2000 кв.м\" (CityStone has showrooms in Sofia, Varna and Burgas, plus its own 2,000 sqm workshop). Exact Varna street address was not captured (the scraped contact page returned only a template/placeholder).",
+    "email": "",
+    "phone": "",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Distributes and installs multiple premium engineered-stone and large-format porcelain brands (Dekton, Silestone, TechniStone, GeoSlab, Cimstone, Avant Quartz, Belenco, Arklam, Atlasplan) — a curated, brand-driven premium-materials retailer.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Dekton (Cosentino)",
+      "Silestone (Cosentino)",
+      "Atlasplan (porcelain slabs)",
+      "Belenco",
+      "Avant Quartz",
+      "Arklam",
+      "TechniStone",
+      "GeoSlab",
+      "Cimstone"
+    ],
+    "key_messages": [
+      "\"Превръщаме идеите Ви в изкуство\" (We turn your ideas into art)",
+      "Multi-brand engineered-stone / large-format porcelain distributor and installer with showrooms in 3 Bulgarian cities",
+      "NOTE FOR COSENTINO: CityStone already stocks and markets Cosentino's own Dekton and Silestone lines alongside directly competing brands (TechniStone, Cimstone, GeoSlab) — an existing retail relationship/potential expansion partner rather than a pure competitor to displace"
+    ],
+    "summary": "CityStone is a multi-city (Sofia/Varna/Burgas) premium showroom and installer of engineered stone and large-format porcelain surfaces, notably already selling Cosentino's Dekton and Silestone alongside competing brands like TechniStone and Cimstone.",
+    "source_urls": [
+      "https://citystone.bg/",
+      "https://citystone.bg/kontakti/"
+    ]
+  },
+  {
+    "name": "Булстоун (Bulstone)",
+    "city_or_zone": "Varna",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Search-result description states: \"В складовете на фирмата във Варна, Дуранкулак и София ще откриете богато разнообразие от мрамор, гранит, оникс, травертин и варовик\" (in the company's warehouses in Varna, Durankulak and Sofia you will find a wide variety of marble, granite, onyx, travertine and limestone) — confirming physical stock/display in Varna, though the dedicated contact page returned a server error so no street address was captured.",
+    "email": "",
+    "phone": "",
+    "address": "Not determinable",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Specialist fabricator of natural stone (marble, granite, onyx, travertine, limestone) for kitchen countertops and staircases — natural-stone specialists typically command a premium versus engineered/laminate alternatives.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Marble",
+      "Granite",
+      "Onyx",
+      "Travertine",
+      "Limestone"
+    ],
+    "key_messages": [
+      "Kitchen countertops, stairs and window sills fabricated from natural stone",
+      "Stock/warehouses held in Varna, Durankulak and Sofia",
+      "Focus on natural marble/granite/onyx rather than engineered quartz surfaces — a potential adjacency/competitor for Cosentino's natural-look surfaces"
+    ],
+    "summary": "Bulstone is a Bulgarian natural-stone fabricator (marble, granite, onyx, travertine, limestone) producing kitchen worktops and staircases, with stock held in Varna, Durankulak and Sofia.",
+    "source_urls": [
+      "https://bulstone.com/bg/"
+    ]
+  }
+]

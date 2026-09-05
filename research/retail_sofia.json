@@ -1,0 +1,648 @@
+[
+  {
+    "name": "ADESIGN",
+    "city_or_zone": "Sofia",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Office address published with map link: 108 Cherni Vrah blvd., fl. 4, Sofia, BG; site copy references transforming 'raw construction' into finished interiors, implying supervised on-site delivery.",
+    "email": "team@adesign.com",
+    "phone": "+359 877 978 541",
+    "address": "108 Cherni Vrah blvd., fl. 4, Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Self-described as a 'full-service interior design firm' with dedicated projects/pricing-and-services/portfolio structure typical of upper-market studios; central Sofia (Cherni Vrah) office address.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Full-service interior design firm",
+      "Turns raw construction into a finished, personalized home",
+      "Structured offer: projects, pricing & services, portfolio"
+    ],
+    "summary": "Sofia-based full-service interior design studio handling residential and commercial interiors from concept to realization.",
+    "source_urls": [
+      "https://www.adesign.bg/en/",
+      "https://www.adesign.bg/en/contacts/"
+    ]
+  },
+  {
+    "name": "MOOD Interior Design Studio",
+    "city_or_zone": "Sofia",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office address (Sofia, bul. Bulgaria 73, office 208) and an extensive built-project portfolio (villas, apartments, offices) across Sofia residential complexes.",
+    "email": "office@moodinterior.com",
+    "phone": "+359 899 32 55 81",
+    "address": "Sofia, bul. Bulgaria 73, office 208, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Portfolio concentrated in premium Sofia complexes (Vitosha View, Amaya Residence, Sofia Park Villas, Residential Park) and standalone houses/penthouses.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Aesthetic elegance through complete interior realization",
+      "Portfolio spans houses, apartments, penthouses and offices in Sofia's premium residential complexes",
+      "'Open the door for the better interior design' / 'your dream home is closer than you think'"
+    ],
+    "summary": "Established Sofia interior design studio delivering full residential and office interior projects, with a strong portfolio in the city's higher-end residential complexes.",
+    "source_urls": [
+      "https://moodinterior.com/en/",
+      "https://moodinterior.com/en/contacts/"
+    ]
+  },
+  {
+    "name": "IDEA Interior Design Studio",
+    "city_or_zone": "Sofia",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published Sofia office address and phone; portfolio includes a built hospitality project (Hotel InterContinental Sofia) and named residential projects (Teatralna Park Residence, luxury yacht interior).",
+    "email": "office@idea.bg",
+    "phone": "+359 898 67 90 60",
+    "address": "Sofia 1715, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Portfolio includes 5-star hospitality (InterContinental Sofia), luxury yacht interiors and 'Teatralna Park Residence' using natural materials (wood, stone, textiles).",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Personalized design and interior solutions for private homes, villas and residences",
+      "High-profile hospitality reference project: Hotel InterContinental Sofia",
+      "Use of sustainable, natural materials - wood, stone, textiles"
+    ],
+    "summary": "Sofia interior design studio with a high-end portfolio spanning luxury residential, yacht and hospitality interiors, including the InterContinental Sofia hotel.",
+    "source_urls": [
+      "https://idea.bg/en/",
+      "https://idea.bg/kontakti-interioren-dizayn-sofia/"
+    ]
+  },
+  {
+    "name": "High-End Design Studio",
+    "city_or_zone": "Sofia",
+    "typology": "Interior Designer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published ground-floor office address in Sofia with named architect contact and fixed office hours (Mon-Fri 09:00-18:00).",
+    "email": "office@highend-design.com",
+    "phone": "+359 885 84 66 98",
+    "address": "Emiliyan Stanev 2a Str., bl. 8 - ground floor, 1407 Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "High",
+    "price_evidence": "Brand name and positioning ('High-End Design Studio') explicitly target the premium segment; office located in the upscale 1407 Sofia district.",
+    "service_breadth": "Not determinable",
+    "materials_brands": [],
+    "key_messages": [
+      "Positions itself explicitly as a high-end design studio",
+      "Architect-led practice with direct client contact",
+      "Based in an upscale Sofia district (1407)"
+    ],
+    "summary": "Boutique Sofia design studio branded around a high-end residential design positioning; site is cookie-gated so only contact-page content could be verified.",
+    "source_urls": [
+      "https://highend-design.com/en/contacts/",
+      "https://highend-design.com/en/"
+    ]
+  },
+  {
+    "name": "DEN Design Studio",
+    "city_or_zone": "Sofia",
+    "typology": "Architecture Studio",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published street address in central Sofia (bul. Patriarh Evtimiy 23) with phone and email; site details a multidisciplinary in-house team (architects, engineers, interior designers).",
+    "email": "office@dendesign.bg",
+    "phone": "+359 887 396 385",
+    "address": "bul. Patriarh Evtimiy 23, 1164 Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "Medium",
+    "price_evidence": "Positions as an established ('utvardeno') Sofia architecture bureau focused on single-family and multi-family residential design; no explicit luxury-tier claims.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "One of the established architecture bureaus in Sofia, founded 2012",
+      "Integrated approach combining creativity, professionalism and sustainability",
+      "Multidisciplinary team: architects, engineers and interior designers under one roof"
+    ],
+    "summary": "Sofia architecture studio (est. 2012) covering residential architecture, interior design and author's supervision for houses, apartments and multi-family buildings.",
+    "source_urls": [
+      "https://dendesign.bg/"
+    ]
+  },
+  {
+    "name": "Architectural Studio ITARCH",
+    "city_or_zone": "Sofia",
+    "typology": "Architecture Studio",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published office address (4 Bacho Kiro str., 1000 Sofia) and phone; long operating history since 1994 with a named founder.",
+    "email": "",
+    "phone": "+359 888 343 976",
+    "address": "4 Bacho Kiro str., 1000 Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "High",
+    "price_evidence": "Long-established (since 1994) private practice with a nominee project for 'Building of the Year 2005' (Platinum Business Centre, Sofia), indicating higher-tier commercial/office work.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "Private architectural practice based in Sofia since 1994",
+      "Founder Ivan Tonchev has full design licensure and decades of practice",
+      "Nominee for Building of the Year 2005 (Platinum Business Centre, Sofia)"
+    ],
+    "summary": "Long-standing private Sofia architecture practice (founded 1994) covering residential and commercial building design.",
+    "source_urls": [
+      "https://architecturalstudioitarch.com/about-itarch.php"
+    ]
+  },
+  {
+    "name": "IPA - Architecture and more",
+    "city_or_zone": "Sofia",
+    "typology": "Architecture Studio",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Company is clearly Sofia-based and credited as architect of record on major public and residential projects, but no office address/showroom detail could be retrieved from the scraped pages.",
+    "email": "",
+    "phone": "",
+    "address": "Sofia, Bulgaria (exact office address not determinable)",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "High",
+    "price_evidence": "Portfolio includes flagship national infrastructure (new Sofia Airport Terminal 3, Bulgarian Army Stadium, Georgi Asparuhov Stadium) plus the premium 'Amur Homes' residential complex.",
+    "service_breadth": "Design only",
+    "materials_brands": [],
+    "key_messages": [
+      "Architecture and engineering company in Sofia",
+      "Architect of record for Sofia Airport's new Terminal 3 and major national stadiums",
+      "Also designs premium residential complexes (e.g. Amur Homes)"
+    ],
+    "summary": "Sofia architecture and engineering firm with a portfolio spanning large-scale public infrastructure and premium residential developments.",
+    "source_urls": [
+      "https://www.ip-arch.com/en",
+      "https://www.ip-arch.com/en/projects/amur-homes-residential-complex"
+    ]
+  },
+  {
+    "name": "Faram",
+    "city_or_zone": "Sofia",
+    "typology": "Hybrid",
+    "hybrid_detail": "Kitchen and full-home furniture manufacturer with an in-house interior design service and Sofia showroom",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published Sofia showroom/office address and landline; site organizes physical product catalogue by room (kitchen, living room, dining, bedroom).",
+    "email": "",
+    "phone": "+359 2 964 31 13",
+    "address": "Sekvoya str. 1A, Sofia 1616, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Markets itself as offering 'luxurious' customizable kitchens alongside a full in-house interior design service, positioning above mass-market furniture retail.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Fully customizable, practical and luxurious kitchens",
+      "Complete home furniture range: living room, dining, bedroom, kitchen",
+      "In-house interior design service alongside furniture manufacturing"
+    ],
+    "summary": "Sofia-based furniture manufacturer and interior design provider with a dedicated custom-kitchen line, combining showroom retail with design services.",
+    "source_urls": [
+      "https://faram.bg/furniture/kitchen/?lang=en"
+    ]
+  },
+  {
+    "name": "Poliform Sofia",
+    "city_or_zone": "Sofia",
+    "typology": "Kitchen",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Official Poliform monobrand store page gives a full Sofia street address, phone, email and showroom photos; described as showcasing kitchens, closets and living/bedroom collections in-store.",
+    "email": "info@poliformsofia.bg",
+    "phone": "+359 29 674 141",
+    "address": "Okolovrasten Pat 82, Sofia 1415, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "High",
+    "price_evidence": "Official monobrand showroom of Poliform, an Italian luxury furniture and kitchen brand ('Made in Italy production where unparalleled quality meets attention to detail').",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Poliform"
+    ],
+    "key_messages": [
+      "Made in Italy production, unparalleled quality and attention to detail",
+      "Dedicated sales and design team for custom-made, sophisticated projects",
+      "Showcases kitchens, closets, living and bedroom collections in an intimate, private showroom"
+    ],
+    "summary": "Official Poliform monobrand showroom in Sofia offering Italian luxury kitchens, closets and furniture with dedicated design support.",
+    "source_urls": [
+      "https://www.poliform.it/en/monobrand-stores/poliform-sofia/"
+    ]
+  },
+  {
+    "name": "Intro Design Studio (Nolte Kuchni Sofia)",
+    "city_or_zone": "Sofia",
+    "typology": "Kitchen",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Published Sofia showroom address on a major boulevard, plus phone and email; site is the Bulgarian representative storefront for the German Nolte Kuchen brand.",
+    "email": "office@noltestudio.bg",
+    "phone": "+359 885 056 722",
+    "address": "Sofia, 16 Simeonovsko shose Blvd., Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "Medium",
+    "price_evidence": "Sells German-manufactured Nolte kitchens (family business since 1958) with a 5-year factory warranty and 100+ finish options - a recognized mid-to-upper European kitchen brand rather than ultra-luxury.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Nolte Kuchen"
+    ],
+    "key_messages": [
+      "Official showroom for German Nolte kitchens (family business since 1958)",
+      "5-year factory warranty and over 100 finish/color options",
+      "Individual kitchen design projects"
+    ],
+    "summary": "Sofia showroom acting as the local outlet for German kitchen manufacturer Nolte, offering individual kitchen design projects with factory warranty.",
+    "source_urls": [
+      "https://www.noltestudio.bg/en/kitchens/"
+    ]
+  },
+  {
+    "name": "Niyani",
+    "city_or_zone": "Sofia",
+    "typology": "Kitchen & Bath",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Site confirms an 'atelier' manufacturing base in Sofia and a dedicated kitchen product line, but no public showroom address, phone or email could be retrieved (contact page returned an error).",
+    "email": "",
+    "phone": "",
+    "address": "Sofia, Bulgaria (exact address not determinable)",
+    "source_channel": "Own website",
+    "content_language": "English",
+    "price_signal": "High",
+    "price_evidence": "Self-described as 'Bespoke Luxury Furniture' made in a Bulgarian atelier from 'premium, locally-sourced' materials by expert artisans.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [],
+    "key_messages": [
+      "Bespoke luxury furniture made in a Bulgarian atelier",
+      "Custom kitchens manufactured in Sofia",
+      "Premium, locally-sourced materials and expert artisans"
+    ],
+    "summary": "Sofia-based custom luxury furniture manufacturer producing bespoke kitchens, bedrooms and living-room furniture in its own atelier.",
+    "source_urls": [
+      "https://www.niyani-furniture.com/en/index.html",
+      "https://www.niyani-furniture.com/en/contacts.html"
+    ]
+  },
+  {
+    "name": "Urban Concept",
+    "city_or_zone": "Sofia",
+    "typology": "Kitchen & Bath",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Page explicitly titled 'Showroom Sofia' with full street address, phone and email; copy invites visitors 'we are waiting for you in our showroom'.",
+    "email": "office@urbanconcept.bg",
+    "phone": "+359 893 600 487",
+    "address": "156 Cherni Vrah Blvd., Krastova Vada district, 1407 Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Showroom curates bathroom/kitchen brands (Avalon, Bugnatese, Vema, Imex) alongside natural stone and granite worktops, targeting design-led renovation clients rather than mass-market retail.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Avalon",
+      "Bugnatese",
+      "Vema",
+      "Imex"
+    ],
+    "key_messages": [
+      "Bathroom tiles, granite, marble and bathroom furniture under one roof",
+      "Kitchen countertops with free 3D project",
+      "Physical showroom experience curating high-quality, innovative-design brands"
+    ],
+    "summary": "Sofia kitchen-and-bathroom showroom retailing tiles, natural stone worktops, bathroom furniture and fittings from a curated set of European brands.",
+    "source_urls": [
+      "https://urbanconcept.bg/en/",
+      "https://urbanconcept.bg/en/showroom-sofia/"
+    ]
+  },
+  {
+    "name": "Stone Bulgaria",
+    "city_or_zone": "Sofia",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Dedicated 'Showroom - SOFIA' page with full street address, phone, and photo of the natural-stone showroom.",
+    "email": "info@stonebulgaria.bg",
+    "phone": "+359 896 401 203",
+    "address": "1839 Sofia, bul. Botevgradsko Shose 346, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Tagline 'Premium marble & granite, fast delivery in Bulgaria'; showroom lets clients view marble, granite, onyx and travertine slabs in person before ordering.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Marble",
+      "Granite",
+      "Onyx",
+      "Travertine",
+      "Sintered stone (technical stone)"
+    ],
+    "key_messages": [
+      "Premium marble and granite with fast delivery across Bulgaria",
+      "In-person showroom experience for natural stone selection",
+      "Personal consultation and made-to-measure production"
+    ],
+    "summary": "Sofia natural-stone showroom and processor supplying premium marble, granite and other stone materials with a physical display space and made-to-measure service.",
+    "source_urls": [
+      "https://stonebulgaria.bg/showroom/",
+      "https://stonebulgaria.bg/"
+    ]
+  },
+  {
+    "name": "CityStone",
+    "city_or_zone": "Sofia",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Site footer lists three physical showrooms ('Заповядайте в нашите шоуруми'), including Sofia, alongside a 2000 sqm own factory.",
+    "email": "",
+    "phone": "",
+    "address": "Sofia, bul. Simeonovsko shose 233, Bulgaria (plus showrooms in Burgas and Varna)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Retails premium engineered-stone brands including Silestone and Dekton for kitchen worktops, plus a configurator for bespoke countertops - a clear existing-reseller relationship with Cosentino's own brands.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Silestone",
+      "Dekton",
+      "Atlasplan",
+      "Belenco"
+    ],
+    "key_messages": [
+      "Turns ideas into art through engineered-stone and large-format porcelain surfaces",
+      "Showrooms in Sofia, Varna and Burgas plus a 2000 sqm own manufacturing facility",
+      "Online kitchen-worktop configurator by material, shape and finish"
+    ],
+    "summary": "Multi-city Bulgarian fabricator/showroom (incl. Sofia) already retailing Cosentino's own Silestone and Dekton alongside AtlasPlan porcelain and Belenco quartz, making it a directly relevant existing-channel contact.",
+    "source_urls": [
+      "https://citystone.bg/"
+    ]
+  },
+  {
+    "name": "Multirock",
+    "city_or_zone": "Sofia",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Site names its own Sofia factory address (ul. Vladimir Zografov 114) and states it works directly with architects, designers and end clients on-site for kitchen tops, bathrooms and lobbies.",
+    "email": "",
+    "phone": "",
+    "address": "ul. Vladimir Zografov 114, Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Positions as a 30+ year 'established leader' in premium natural-stone supply and processing (marble, quartzite, granite, onyx) for Sofia's residential and commercial interiors.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Marble",
+      "Quartzite",
+      "Granite",
+      "Onyx"
+    ],
+    "key_messages": [
+      "30+ years of specialized experience in premium natural stone",
+      "Own Sofia factory covering consultation, processing and installation",
+      "Works directly with architects and designers on kitchen tops, bathrooms and lobbies"
+    ],
+    "summary": "Long-established Sofia natural-stone fabricator and showroom supplying premium marble, quartzite and granite for high-end residential and commercial interiors.",
+    "source_urls": [
+      "https://multirock.bg/"
+    ]
+  },
+  {
+    "name": "Stone Center Group (SCG)",
+    "city_or_zone": "Sofia",
+    "typology": "Premium Materials Showroom",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Search-indexed listing gives a Sofia showroom address (bul. Slivnitsa 127, West Park Trade); site content is built around an in-showroom product gallery organized by room (kitchen, bathroom, living room, stairs).",
+    "email": "",
+    "phone": "",
+    "address": "Sofia, bul. Slivnitsa 127, West Park Trade, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Self-described as a distributor for 'world-leading manufacturers of technical stone', carrying a wide multi-brand portfolio of engineered stone, sintered stone and natural stone including a Silestone gallery.",
+    "service_breadth": "Design+installation+supply",
+    "materials_brands": [
+      "Silestone",
+      "Technistone",
+      "Neolith",
+      "Cimstone",
+      "Quarella",
+      "Lapitec",
+      "DuPont Corian",
+      "StoneItaliana",
+      "ABKStone",
+      "Atlasplan"
+    ],
+    "key_messages": [
+      "Distributor of the world's leading technical/engineered stone manufacturers",
+      "Full-service offer: template measuring, processing, transport and installation",
+      "Large multi-brand showroom gallery for kitchens, bathrooms, living rooms and stairs"
+    ],
+    "summary": "Major Sofia multi-brand engineered- and sintered-stone distributor and showroom, already carrying Silestone alongside numerous direct Cosentino competitors (Technistone, Neolith, Cimstone, etc.).",
+    "source_urls": [
+      "https://stonecenter.bg/",
+      "https://www.marmogranite.com/bg/quartz-tiles-for-contemporary-spaces-beauty-strength-and-easy-maintenance/"
+    ]
+  },
+  {
+    "name": "BLD",
+    "city_or_zone": "Sofia",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Company publishes a dedicated 'BLD Facility' section and an editorial piece mapping ten furniture/interior showrooms across Sofia, indicating active engagement with the city's premium materials and showroom scene.",
+    "email": "",
+    "phone": "+359 888 508 508",
+    "address": "Sofia, Bulgaria (exact office address not determinable)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Just launched 'Uptown Square', described as its largest-ever residential project, as part of AG Capital; long track record of completed premium Sofia residential complexes.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "'Trust per square meter' - focus on modern, functional, high-quality residential projects",
+      "Member of AG Capital; launched Uptown Square, its largest project to date",
+      "Publishes its own editorial content curating Sofia's premium interior/furniture showroom scene"
+    ],
+    "summary": "One of Sofia's most active residential developers (part of AG Capital), with a strong brand around quality construction and an editorial interest in the city's premium interior showroom landscape.",
+    "source_urls": [
+      "https://bld.bg/en",
+      "https://bld.bg/en/news/shouruming",
+      "https://agcapital.bg/news/bld-launches-uptown-square-residential-project/"
+    ]
+  },
+  {
+    "name": "Sky Towers by AMur (AMur)",
+    "city_or_zone": "Sofia",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Dedicated project site with a Sofia sales-office address (ul. Zlaten Rog 22, floor 3, office 6) and reservation process; investor also credited on multiple other named Sofia projects (AMur Homes, AMur Gardens).",
+    "email": "",
+    "phone": "",
+    "address": "Sofia office: ul. Zlaten Rog 22, floor 3, office 6; project site: kv. Manastirski livadi, Sofia, Bulgaria",
+    "source_channel": "Multiple",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Marketed explicitly as 'the new standard of luxury in Sofia' / 'new symbol of premium living', with first-class facade systems and panoramic Vitosha-view apartments; covered by Forbes Bulgaria.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Positioned as the new standard/symbol of premium living in Sofia",
+      "High-class facade systems and premium-quality materials emphasized as a key differentiator",
+      "Track record as 'a proven investor' behind several successful modern Sofia projects"
+    ],
+    "summary": "Sofia residential developer (AMur) behind the high-profile premium tower project Sky Towers, plus AMur Homes and AMur Gardens, explicitly marketed on a premium-materials and finishes narrative.",
+    "source_urls": [
+      "https://skytowers.eu/",
+      "https://www.bulgarianproperties.bg/novini-za-imoti/sky-towers-vav-forbes-bulgaria-9910.html",
+      "https://www.pssc.bg/bg/projects/amur-homes"
+    ]
+  },
+  {
+    "name": "JSP Stil (ЖСП Стил)",
+    "city_or_zone": "Sofia",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Yes",
+    "physical_exposure_evidence": "Publishes a Sofia sales contact (phone and email) distinct from its secondary Shumen office, plus a named Sofia project address (ul. Hristaki Pavlovich 9, project 'Syn3rgy').",
+    "email": "sales@jspstil.com",
+    "phone": "+359 898 51 90 94",
+    "address": "Sofia, ul. Hristaki Pavlovich 9 (Syn3rgy project); company sales office, Sofia, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "Medium",
+    "price_evidence": "Describes itself as offering 'high-quality construction services' and interior finishing, without explicit ultra-luxury positioning; markets directly to buyers as investor-developer.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "New construction directly from the investor in Sofia",
+      "Closed-cycle offer: construction, project management, investment and direct sales",
+      "Also offers interior design and finishing services"
+    ],
+    "summary": "Sofia-focused real-estate investor-developer combining construction, project management and direct sales of new-build residential and commercial units.",
+    "source_urls": [
+      "https://www.jspstil.com/pages/novo-stroitelstvo-ot-investitor-sofiya"
+    ]
+  },
+  {
+    "name": "Beso Homes",
+    "city_or_zone": "Sofia",
+    "typology": "Developer",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Confirmed operating email and a large portfolio of named, built Sofia complexes, but no public office/showroom street address could be retrieved from the scraped pages.",
+    "email": "imoti@besohomes.bg",
+    "phone": "",
+    "address": "Sofia, Bulgaria (exact office address not determinable)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Portfolio concentrated in sought-after Sofia districts (Manastirski Livadi, Krasno Selo, Boyana) with boutique-scale complexes (e.g. 'Klementina Boutique Residence') sold directly without broker commission.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "14+ years selling new-build Sofia real estate directly from the investor, no broker commission",
+      "Closed business cycle: design, construction, exclusive sales",
+      "Boutique-scale residential complexes in upscale Sofia districts (Boyana, Krasno Selo, Manastirski Livadi)"
+    ],
+    "summary": "Sofia residential investor-developer with 14+ years of activity, selling new-build apartments and boutique residences directly in upscale city districts.",
+    "source_urls": [
+      "https://besohomes.bg/",
+      "https://besohomes.bg/contacts/",
+      "https://besohomes.bg/about/"
+    ]
+  },
+  {
+    "name": "PSS Construction (PSSC)",
+    "city_or_zone": "Sofia",
+    "typology": "Contractor",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Credited by name as 'construction manager' on named Sofia residential projects, but no public office address, phone or email could be retrieved; likely a project-based B2B contractor without a public showroom.",
+    "email": "",
+    "phone": "",
+    "address": "Sofia, Bulgaria (exact office address not determinable)",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian",
+    "price_signal": "High",
+    "price_evidence": "Acts as construction manager for premium-positioned Sofia projects such as 'AMur Homes' and the 'Reina Sofia' apartments/estate developments.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Long-standing experience as a construction manager ('стройтелен мениджър')",
+      "Delivers modern construction technology and execution quality",
+      "Partners with established investors on prime Sofia residential projects (e.g. AMur Homes)"
+    ],
+    "summary": "Sofia-active construction management company delivering premium residential projects for third-party investors, without an identified public-facing showroom.",
+    "source_urls": [
+      "https://www.pssc.bg/bg/projects/amur-homes"
+    ]
+  },
+  {
+    "name": "ELITE Building Company",
+    "city_or_zone": "Sofia",
+    "typology": "Contractor",
+    "hybrid_detail": "",
+    "channel": "Retail",
+    "physical_exposure": "Not determinable",
+    "physical_exposure_evidence": "Published Sofia office address and phone on its corporate site, but this is a company office rather than a confirmed public showroom.",
+    "email": "sales@roi.bg",
+    "phone": "+359 (0)2 82 84 872",
+    "address": "Sofia 1407, Bulgaria",
+    "source_channel": "Own website",
+    "content_language": "Bulgarian+English",
+    "price_signal": "High",
+    "price_evidence": "Cited by a real-estate partner as main contractor on 'one of the most high-ended projects on the real estate market in Bulgaria for 2019', alongside architect and investor partners.",
+    "service_breadth": "Design+construction+development",
+    "materials_brands": [],
+    "key_messages": [
+      "Full spectrum of design and construction services for buildings and infrastructure",
+      "Residential, commercial, industrial and infrastructure construction projects",
+      "Track record on high-end luxury residential projects in Bulgaria"
+    ],
+    "summary": "Sofia general contractor covering residential, commercial, industrial and infrastructure construction, with at least one documented high-end luxury residential project.",
+    "source_urls": [
+      "https://elitebuild.bg/",
+      "https://www.facebook.com/ELITEBuildingCompany/"
+    ]
+  }
+]

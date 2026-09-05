@@ -1,0 +1,40 @@
+:root{
+  --bg:#f3f3f0;
+  --bg-header:rgba(243,243,240,.94);
+  --panel:#fff;
+  --bg-panel:#fff;
+  --ink:#101112;
+  --ink-soft:#666966;
+  --muted:#666966;
+  --line:#d8d8d2;
+  --signal:#2864dc;
+  --accent:#2864dc;
+  --accent-strong:#1e4fac;
+  --signal-ink:#fff;
+  --accent-ink:#fff;
+  --focus-ring:#2864dc;
+  --control:#fafaf8;
+  --hover:#edf2ff;
+  --font-sans:Arial,Helvetica,sans-serif;
+  --font-serif:Arial,Helvetica,sans-serif;
+  --font-mono:Arial,Helvetica,sans-serif;
+  --priority-high:#ee7457;
+  --priority-medium:#2864dc;
+  --priority-low:#19a475;
+  --priority-high-bg:transparent;
+  --priority-high-ink:#101112;
+  --priority-medium-bg:transparent;
+  --priority-medium-ink:#101112;
+  --priority-low-bg:transparent;
+  --priority-low-ink:#101112;
+  --exhib-yes-bg:transparent;
+  --exhib-yes-ink:#101112;
+  --exhib-no-bg:transparent;
+  --exhib-no-ink:#666966;
+  --exhib-nd-bg:transparent;
+  --exhib-nd-ink:#666966;
+}
+.lang-toggle{display:flex}
+.lang-toggle .header-btn+.header-btn{border-left:0}
+.cover-header .lang-toggle{margin-left:8px}
+

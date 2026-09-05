@@ -1,0 +1,92 @@
+[
+  {
+    "project_name": "Twin Tower",
+    "developer": "Sunrise Capital EAD",
+    "location": "ul. Srebarna 28, kv. Hladilnika-Vitosha, Sofia",
+    "status": "Under construction",
+    "scale": "52,335 m² total floor area; 24 above-ground + 2 underground floors; 243 apartments + 46 studio units; Bulgaria's first 'branded residence' (with Cattelan Italia)",
+    "estimated_delivery": "May 2024 - May 2028",
+    "linked_actors": ["Сънрайс Кепитъл ЕАД / Sunrise Capital EAD", "Главболгарстрой / Glavbolgarstroy Holding AD (GBS)", "ПЛАНИНГ ЕООД (Planning Studio)"],
+    "source_urls": ["https://gbs-bg.com/bg/proekt/twin-tower/", "https://twintower.bg/bg/text/privacy-policy"]
+  },
+  {
+    "project_name": "One Park",
+    "developer": "ГБС-Инвест ЕАД (GBS-Invest EAD)",
+    "location": "Sofia",
+    "status": "Under construction",
+    "scale": "40,012.31 m² total floor area; 3 underground + 21 above-ground floors; 187 apartments plus offices, retail, restaurant, gym; explicit dual facade concept (curtain glass offices, ventilated residential)",
+    "estimated_delivery": "September 2025 - June 2030",
+    "linked_actors": ["ГБС-Инвест ЕАД (GBS-Invest EAD)", "Главболгарстрой / Glavbolgarstroy Holding AD (GBS)"],
+    "source_urls": ["https://gbs-bg.com/bg/proekt/mnogofunktsionalna-zhilishtna-sgrada-one-park/"]
+  },
+  {
+    "project_name": "Rodina Residence",
+    "developer": "Изток Плаза Инвест ООД (Iztok Plaza Invest OOD)",
+    "location": "bul. Tsarigradsko shose, Sofia",
+    "status": "Under construction",
+    "scale": "Two towers up to 74.9 m; 5 residential sections; 862 apartments; 2,021 parking spaces",
+    "estimated_delivery": "April 2025 - May 2028",
+    "linked_actors": ["Изток Плаза Инвест ООД (Iztok Plaza Invest OOD)", "Главболгарстрой / Glavbolgarstroy Holding AD (GBS)"],
+    "source_urls": ["https://gbs-bg.com/bg/proekt/zhilishten-kompleks-rodina-residence/"]
+  },
+  {
+    "project_name": "Residential Park",
+    "developer": "Ес Джи Инвест ЕАД (SG Invest EAD)",
+    "location": "Plovdiv",
+    "status": "Delivered",
+    "scale": "Phase 1: 22 residential buildings, 1,475 apartments; 124,228.29 m² above-ground + 171,904.52 m² underground; 28 shops, dental clinic, restaurant",
+    "estimated_delivery": "Built June 2021 - November 2024; facade/interior finishing ongoing at last update",
+    "linked_actors": ["Ес Джи Инвест ЕАД (SG Invest EAD)", "ГБС - Пловдив АД (GBS - Plovdiv AD)"],
+    "source_urls": ["https://gbs-bg.com/bg/proekt/zhilishten-kompleks-residential-park/"]
+  },
+  {
+    "project_name": "ICONICA",
+    "developer": "Galaxy Investment Group",
+    "location": "kv. Otdih i kultura, Plovdiv",
+    "status": "For sale",
+    "scale": "Premium complex around a 5,845 m² internal park; two high-rise towers plus a lower connecting volume; 2 underground parking levels; 46 EV chargers; ventilated stone-wool + ceramic-panel facade already specified",
+    "estimated_delivery": "Not determinable",
+    "linked_actors": ["Galaxy Investment Group", "STARH"],
+    "source_urls": ["https://iconica.bg/", "https://www.capital.bg/biznes/imoti/2026/05/17/4908256_iconica_premium_proekt_za_hora_koito_ne_kupuvat_samo/"]
+  },
+  {
+    "project_name": "doMore",
+    "developer": "Пътстрой Варна (Patstroy Varna)",
+    "location": "kv. Asparuhovo, Varna",
+    "status": "Under construction",
+    "scale": "119 apartments on a 5,200 m² plot; underground parking; low-rise, green-space-focused positioning",
+    "estimated_delivery": "~30-month construction timeline from project start (exact start date not disclosed)",
+    "linked_actors": ["Пътстрой Варна (Patstroy Varna)"],
+    "source_urls": ["https://www.capital.bg/biznes/imoti/2026/05/17/4908273_investiciite_na_putstroi_varna_proekti_s_viziia_za/"]
+  },
+  {
+    "project_name": "Central Park Burgas",
+    "developer": "Триа Инвест (Tria Invest)",
+    "location": "ul. Dame Gruev 2, Burgas",
+    "status": "Delivered",
+    "scale": "3 residential + 3 Class-A office buildings, hotel, mall, restaurants, gym/spa; offices alone 45,000+ m² for ~4,500-5,000 workstations; 5,000 m² internal plaza; 800-1,800 parking spaces",
+    "estimated_delivery": "Delivered in 3 phases: 2020 / 2022 / 2024",
+    "linked_actors": ["Триа Инвест (Tria Invest)"],
+    "source_urls": ["https://economy.bg/featured/view/41869/Do-kraya-na-2020-shte-zavyrshi-stroitelstvoto-na-pyrva-faza-na-Central-Park-v-Burgas"]
+  },
+  {
+    "project_name": "Flora Panorama",
+    "developer": "Триа Инвест (Tria Invest)",
+    "location": "near the Sea Garden, Burgas",
+    "status": "Delivered",
+    "scale": "Award-winning residential tower ('Building of the Year 2019'); exact unit/m² count not disclosed in source reviewed",
+    "estimated_delivery": "Delivered circa 2019",
+    "linked_actors": ["Триа Инвест (Tria Invest)"],
+    "source_urls": ["https://bgbroker.bg/%D0%BE%D0%B1%D1%8F%D0%B2%D0%B0-627.html"]
+  },
+  {
+    "project_name": "SoHome Residential Park",
+    "developer": "Not determinable (gated complex; developer not named in source reviewed)",
+    "location": "Lozenets, Sofia",
+    "status": "Delivered",
+    "scale": "Gated complex of 10 residential buildings; individual apartment interior fit-outs of 65-100 m² documented within it",
+    "estimated_delivery": "Not determinable",
+    "linked_actors": ["3Arch Design"],
+    "source_urls": ["https://sohome.bg/en/", "https://3archdesign.bg/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D0%BE%D1%80%D0%B5%D0%BD-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/"]
+  }
+]
