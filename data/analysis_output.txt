@@ -1,0 +1,298 @@
+=== RETAIL: typology x exhibition, by city ===
+-- Burgas (24 total)
+    Architecture Studio        Yes: 2  No: 0  ND: 2
+    Contractor                 Yes: 1  No: 0  ND: 0
+    Developer                  Yes: 1  No: 0  ND: 0
+    Hybrid                     Yes: 5  No: 0  ND: 1
+    Interior Designer          Yes: 2  No: 0  ND: 2
+    Kitchen                    Yes: 1  No: 0  ND: 1
+    Kitchen & Bath             Yes: 2  No: 0  ND: 0
+    Premium Materials Showroom Yes: 4  No: 0  ND: 0
+-- Plovdiv (27 total)
+    Architecture Studio        Yes: 1  No: 0  ND: 2
+    Contractor                 Yes: 2  No: 0  ND: 1
+    Developer                  Yes: 3  No: 0  ND: 0
+    Hybrid                     Yes: 1  No: 0  ND: 0
+    Interior Designer          Yes: 1  No: 0  ND: 4
+    Kitchen                    Yes: 0  No: 0  ND: 5
+    Kitchen & Bath             Yes: 3  No: 0  ND: 0
+    Premium Materials Showroom Yes: 4  No: 0  ND: 0
+-- Sofia (22 total)
+    Architecture Studio        Yes: 2  No: 0  ND: 1
+    Contractor                 Yes: 0  No: 0  ND: 2
+    Developer                  Yes: 3  No: 0  ND: 1
+    Hybrid                     Yes: 1  No: 0  ND: 0
+    Interior Designer          Yes: 4  No: 0  ND: 0
+    Kitchen                    Yes: 2  No: 0  ND: 0
+    Kitchen & Bath             Yes: 1  No: 0  ND: 1
+    Premium Materials Showroom Yes: 4  No: 0  ND: 0
+-- Varna (20 total)
+    Architecture Studio        Yes: 2  No: 0  ND: 0
+    Contractor                 Yes: 1  No: 0  ND: 0
+    Developer                  Yes: 1  No: 0  ND: 1
+    Hybrid                     Yes: 5  No: 0  ND: 2
+    Interior Designer          Yes: 3  No: 0  ND: 0
+    Kitchen                    Yes: 2  No: 0  ND: 0
+    Kitchen & Bath             Yes: 1  No: 0  ND: 0
+    Premium Materials Showroom Yes: 2  No: 0  ND: 0
+
+=== RETAIL: price_range distribution ===
+{ High: 59, Medium: 29, 'Not determinable': 3, Low: 2 }
+
+=== RETAIL: service_scope distribution ===
+{
+  'Design+Install+Supply': 46,
+  'Not determinable': 4,
+  'Design only': 7,
+  'Design+Construction+Development': 36
+}
+
+=== PROYECTOS: typology x project_type ===
+    Architecture Studio    { Volume: 2, Tourism: 1 }
+    Contractor             { Volume: 3, Tourism: 2 }
+    Developer              { Volume: 8, Tourism: 6 }
+    Facade Installer       { Volume: 2, Tourism: 0 }
+    Hybrid                 { Volume: 1, Tourism: 4 }
+    Interior Designer      { Volume: 1, Tourism: 0 }
+    Technical Specifier    { Volume: 2, Tourism: 0 }
+
+=== PROYECTOS: exhibition ===
+{ No: 4, 'Not determinable': 20, Yes: 8 }
+
+=== Competitive materials/brands mentioned (retail) ===
+[
+  {
+    name: 'Marble',
+    count: 6,
+    ids: [
+      'stone-bulgaria-sofia',
+      'multirock-sofia',
+      'plovdiv-mramor-plovdiv-mramor-ood-plovdiv',
+      'bulstoun-bulstone-varna',
+      'stonetech-granite-burgas-burgas',
+      'megacom2-burgas'
+    ]
+  },
+  {
+    name: 'Granite',
+    count: 6,
+    ids: [
+      'stone-bulgaria-sofia',
+      'multirock-sofia',
+      'plovdiv-mramor-plovdiv-mramor-ood-plovdiv',
+      'bulstoun-bulstone-varna',
+      'megacom2-burgas',
+      'stonehaus-burgas'
+    ]
+  },
+  {
+    name: 'Travertine',
+    count: 6,
+    ids: [
+      'stone-bulgaria-sofia',
+      'plovdiv-mramor-plovdiv-mramor-ood-plovdiv',
+      'bulstoun-bulstone-varna',
+      'stonetech-granite-burgas-burgas',
+      'megacom2-burgas',
+      'stonehaus-burgas'
+    ]
+  },
+  {
+    name: 'Onyx',
+    count: 4,
+    ids: [
+      'stone-bulgaria-sofia',
+      'multirock-sofia',
+      'plovdiv-mramor-plovdiv-mramor-ood-plovdiv',
+      'bulstoun-bulstone-varna'
+    ]
+  },
+  {
+    name: 'Silestone',
+    count: 4,
+    ids: [
+      'citystone-sofia',
+      'stone-center-group-scg-sofia',
+      'citystone-siti-stoun-eood-varna',
+      'citystone-burgas'
+    ]
+  },
+  {
+    name: 'Atlasplan',
+    count: 4,
+    ids: [
+      'citystone-sofia',
+      'stone-center-group-scg-sofia',
+      'citystone-siti-stoun-eood-varna',
+      'citystone-burgas'
+    ]
+  },
+  {
+    name: 'Dekton',
+    count: 3,
+    ids: [
+      'citystone-sofia',
+      'citystone-siti-stoun-eood-varna',
+      'citystone-burgas'
+    ]
+  },
+  {
+    name: 'MDF',
+    count: 3,
+    ids: [
+      'fancy-mebeli-fensi-mebeli-ood-plovdiv',
+      'mebeli-toro-design-toro-plovdiv',
+      'stts-design-plovdiv'
+    ]
+  },
+  {
+    name: 'Belenco',
+    count: 2,
+    ids: [ 'citystone-sofia', 'citystone-siti-stoun-eood-varna' ]
+  },
+  {
+    name: 'Cimstone',
+    count: 2,
+    ids: [
+      'stone-center-group-scg-sofia',
+      'citystone-siti-stoun-eood-varna'
+    ]
+  },
+  {
+    name: 'PDCh',
+    count: 2,
+    ids: [
+      'fancy-mebeli-fensi-mebeli-ood-plovdiv',
+      'mebeli-toro-design-toro-plovdiv'
+    ]
+  },
+  {
+    name: 'Blum hardware',
+    count: 2,
+    ids: [ 'mebeli-toro-design-toro-plovdiv', 'stts-design-plovdiv' ]
+  },
+  {
+    name: 'MDF lacquer',
+    count: 2,
+    ids: [ 'mard-dizayn-mard-design-plovdiv', 'lorita-eood-lorita-plovdiv' ]
+  },
+  {
+    name: 'Roca',
+    count: 2,
+    ids: [ 'studio-sense-plovdiv-plovdiv', 'vip-ceramica-plovdiv' ]
+  },
+  {
+    name: 'Ideal Standard',
+    count: 2,
+    ids: [ 'vip-ceramica-plovdiv', 'fabrika-za-bani-burgas' ]
+  }
+]
+
+=== Competitive materials/brands mentioned (proyectos) ===
+[
+  {
+    name: 'Cortizo',
+    count: 2,
+    ids: [ 'faspro-ood-faspro-ltd-sofia', 'pls-engineering-varna' ]
+  },
+  {
+    name: 'Composite panel facade cladding',
+    count: 1,
+    ids: [ 'glavbolgarstroy-glavbolgarstroy-holding-ad-gbs-sofia' ]
+  },
+  {
+    name: 'Composite panel facade',
+    count: 1,
+    ids: [ 'sanrays-kepital-ead-sunrise-capital-ead-sofia' ]
+  },
+  { name: 'Laminam', count: 1, ids: [ 'faspro-ood-faspro-ltd-sofia' ] },
+  { name: 'Schüco', count: 1, ids: [ 'faspro-ood-faspro-ltd-sofia' ] },
+  {
+    name: 'Aliplast',
+    count: 1,
+    ids: [ 'faspro-ood-faspro-ltd-sofia' ]
+  },
+  {
+    name: 'Techlam by Levantina',
+    count: 1,
+    ids: [ 'venta-group-ead-sofia' ]
+  },
+  { name: 'Fundermax', count: 1, ids: [ 'venta-group-ead-sofia' ] },
+  {
+    name: 'Swisspearl/Cembrit',
+    count: 1,
+    ids: [ 'venta-group-ead-sofia' ]
+  },
+  { name: 'Tempio', count: 1, ids: [ 'venta-group-ead-sofia' ] },
+  {
+    name: 'Alucoil/Alubond',
+    count: 1,
+    ids: [ 'venta-group-ead-sofia' ]
+  },
+  { name: 'SELT', count: 1, ids: [ 'venta-group-ead-sofia' ] },
+  { name: 'Apavisa', count: 1, ids: [ 'venta-group-ead-sofia' ] },
+  {
+    name: 'HPL',
+    count: 1,
+    ids: [ 'stroitelna-sila-eood-building-power-okachenifasadi-com-sofia' ]
+  },
+  {
+    name: 'fibre cement',
+    count: 1,
+    ids: [ 'stroitelna-sila-eood-building-power-okachenifasadi-com-sofia' ]
+  }
+]
+
+=== TOP 20 CANDIDATES BY SCORE (all channels) ===
+1. Poliform Sofia | Retail | Sofia | Kitchen | score 100 High | exhib: Yes | price: High
+2. Urban Concept | Retail | Sofia | Kitchen & Bath | score 100 High | exhib: Yes | price: High
+3. Studio Sense Пловдив | Retail | Plovdiv | Kitchen & Bath | score 100 High | exhib: Yes | price: High
+4. RILUS | Retail | Plovdiv | Kitchen & Bath | score 100 High | exhib: Yes | price: High
+5. Kuhni Dialog - Casa Decor showroom Burgas | Retail | Burgas | Kitchen | score 100 High | exhib: Yes | price: High
+6. Fabrika Za Bani | Retail | Burgas | Kitchen & Bath | score 100 High | exhib: Yes | price: High
+7. Stone Bulgaria | Retail | Sofia | Premium Materials Showroom | score 99 High | exhib: Yes | price: High
+8. Stone Quality (Стоун Куалити ЕООД) / DeLuxe Group Stone | Retail | Plovdiv | Premium Materials Showroom | score 99 High | exhib: Yes | price: High
+9. ItalCeramic Group | Retail | Plovdiv | Premium Materials Showroom | score 99 High | exhib: Yes | price: High
+10. VIP Ceramica | Retail | Plovdiv | Premium Materials Showroom | score 99 High | exhib: Yes | price: High
+11. Intro Design Studio (Nolte Kuchni Sofia) | Retail | Sofia | Kitchen | score 98 High | exhib: Yes | price: Medium
+12. Баня Стил Пловдив (Bania Stil Plovdiv) | Retail | Plovdiv | Kitchen & Bath | score 98 High | exhib: Yes | price: Medium
+13. СИМА (Sima) — Цялата баня | Retail | Varna | Kitchen & Bath | score 98 High | exhib: Yes | price: Medium
+14. Пловдив Мрамор (Plovdiv Mramor) OOD | Retail | Plovdiv | Premium Materials Showroom | score 97 High | exhib: Yes | price: Medium
+15. Stonetech (Granite Burgas) | Retail | Burgas | Premium Materials Showroom | score 97 High | exhib: Yes | price: Medium
+16. Мартинели (Martineli) | Retail | Varna | Hybrid | score 96 High | exhib: Yes | price: High
+17. CityStone | Retail | Sofia | Premium Materials Showroom | score 94 High | exhib: Yes | price: High
+18. Multirock | Retail | Sofia | Premium Materials Showroom | score 94 High | exhib: Yes | price: High
+19. Stone Center Group (SCG) | Retail | Sofia | Premium Materials Showroom | score 94 High | exhib: Yes | price: High
+20. Bonbon Studio | Retail | Varna | Interior Designer | score 94 High | exhib: Yes | price: High
+
+=== High-tier count ===
+Retail High: 70 / Medium: 23 / Low: 0
+Proyectos High: 8 / Medium: 24 / Low: 0
+
+=== Developments by status ===
+{ Delivered: 8, 'Under construction': 8, 'For sale': 5, Announced: 2 }
+
+=== All developments (name | developer | location | status) ===
+- Dinevi Resort | Dinevi Group | Sveti Vlas, Burgas Province (Sunny Beach/Nessebar coastal cluster) - occupies first, second and third sea-front lines | Delivered
+- Marina Dinevi (yacht port) | Dinevi Group | Sveti Vlas, northern part of Nesebar Bay, Burgas Province | Delivered
+- Grand Resort Pamporovo | Grand Resort Pamporovo | Pamporovo ski resort, Smolyan Province - 100m from the road to Snezhanka Tower, 700m from the ski slope | Under construction
+- Green Life Beach Resort | Green Life Development & Resorts | Kavatsi-Smokinya beach, Budzhaka area, ~4 km from Sozopol, Burgas Province | For sale
+- Amira Sea Residence | AMK STROY | Nesebar, New Town, first line, next to the south beach | Announced
+- Roca Grande / Roca Park / Roca Residence 2 | AMK STROY | Nesebar, Burgas Province | Under construction
+- Belvedere Holiday Club (new extension stage) | Pfohe (Karl-Heinz Pfohe / Pfohe Group) | Bansko, Blagoevgrad Province, edge of the resort near the gondola ski lift | Under construction
+- Pirin Castle Residence | Not determinable (marketed by multiple resale agencies; no single developer company confirmed in sources) | Bansko, ~350m from the ski lift | Under construction
+- Super Borovets (new ski-resort development) | Bulgarian Land Development (BLD) | Borovets ski resort, Samokov Municipality, Sofia Province | Announced
+- Pirin Golf & Country Club | Pirin Golf & Country Club | Razlog-Bansko valley, Blagoevgrad Province, near Bansko ski resort | Delivered
+- Redenka Golf & Ski Club / The Grand Redenka | Investment consortium Lux Imoti (with local contractor M-Story Ltd / Emil Bozhanov); architecture by Art New Vision | Razlog, near Bansko ski resort, Blagoevgrad Province | Delivered
+- Dawn Park / Dawn Park Deluxe / Izida Palace / Venera Anastasia Palace | Prime Developments Co | Western part of Sunny Beach resort, Burgas Province | For sale
+- Cornelia Deluxe Residence | Prime Developments Co | Bansko ski resort, Blagoevgrad Province | For sale
+- Harmony Suites Premium | Harmony Suites | Sunny Beach, Burgas Province | For sale
+- Twin Tower | Sunrise Capital EAD | ul. Srebarna 28, kv. Hladilnika-Vitosha, Sofia | Under construction
+- One Park | ГБС-Инвест ЕАД (GBS-Invest EAD) | Sofia | Under construction
+- Rodina Residence | Изток Плаза Инвест ООД (Iztok Plaza Invest OOD) | bul. Tsarigradsko shose, Sofia | Under construction
+- Residential Park | Ес Джи Инвест ЕАД (SG Invest EAD) | Plovdiv | Delivered
+- ICONICA | Galaxy Investment Group | kv. Otdih i kultura, Plovdiv | For sale
+- doMore | Пътстрой Варна (Patstroy Varna) | kv. Asparuhovo, Varna | Under construction
+- Central Park Burgas | Триа Инвест (Tria Invest) | ul. Dame Gruev 2, Burgas | Delivered
+- Flora Panorama | Триа Инвест (Tria Invest) | near the Sea Garden, Burgas | Delivered
+- SoHome Residential Park | Not determinable (gated complex; developer not named in source reviewed) | Lozenets, Sofia | Delivered
